@@ -12,7 +12,7 @@ const PATH = {
     PAGE2: '/puma',
     PAGE3: '/abibas',
     PAGEERROR: '/error404',
-   // PAGEMODEL: 'adidas/model'
+
 } as const
 
 function App() {
