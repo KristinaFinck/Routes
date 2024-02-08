@@ -11,7 +11,7 @@ const PATH = {
     PAGE1: '/adidas',
     PAGE2: '/puma',
     PAGE3: '/abibas',
-    PAGEERROR: '/error404',
+    PAGEERROR: '/error404'
 
 } as const
 
